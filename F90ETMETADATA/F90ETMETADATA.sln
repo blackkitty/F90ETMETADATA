@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "F90ETMETADATA", "F90ETMETADATA.vfproj", "{9DDA3DD6-8927-4F08-A5C3-4B1FE81FD252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DDA3DD6-8927-4F08-A5C3-4B1FE81FD252}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9DDA3DD6-8927-4F08-A5C3-4B1FE81FD252}.Debug|Win32.Build.0 = Debug|Win32
+		{9DDA3DD6-8927-4F08-A5C3-4B1FE81FD252}.Release|Win32.ActiveCfg = Release|Win32
+		{9DDA3DD6-8927-4F08-A5C3-4B1FE81FD252}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
